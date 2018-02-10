@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="biggest_text">40sp</dimen>
+    <dimen name="super_big_text">30sp</dimen>
+    <dimen name="big_text">20sp</dimen>
+    <dimen name="large_text">17sp</dimen>
+    <dimen name="medium_text">15sp</dimen>
+    <dimen name="normal_text">12sp</dimen>
+    <dimen name="small_text">10sp</dimen>
+    <dimen name="bottom_sheet_height">45dp</dimen>
+    <dimen name="profile_image_dim">140dp</dimen>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="login_name">Login</string>
+    <string name="item_name">Item</string>
+    <string name="signin_text">Sign in</string>
+    <string name="first_text">First</string>
+    <string name="second_text">Second</string>
+    <string name="theird_text">Theird</string>
+
+</resources>
